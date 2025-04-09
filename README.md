@@ -1,2 +1,1 @@
-# reactlynx-photo-ai-app
-A repository for ReactLynx Photo AI App
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
